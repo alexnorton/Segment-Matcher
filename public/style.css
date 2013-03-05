@@ -1,0 +1,18 @@
+body {
+	font-family: "Helvetica Neue";
+	font-weight: lighter;
+}
+
+#map_canvas {
+	width: 800px;
+	height: 600px;
+	line height: 600px;
+}
+
+#zoom-out-button {
+	float: right;
+}
+
+#segments-table tbody tr:hover {
+	background-color: #0f0;
+}

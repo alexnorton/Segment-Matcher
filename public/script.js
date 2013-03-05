@@ -49,7 +49,7 @@ function getTracks(options) {
 
 
 			track1 = tracks[0];
-			track2 = tracks[1];
+			track2 = tracks[3];
 
 			matchTracks(track1, track2);
 

@@ -49,9 +49,7 @@ get '/tracks.json' do
 		result[:tracks].push({:filename => f}) unless f[0] == '.'
 	end
 
-	result[:tracks].sort_by { |hash| hash[:filename] }
-
-	result.to_json
+	(result[:tracks].sort_by { |hash| hash[:filename] } ).to_json
 end 
 
 get '/gpx/*' do

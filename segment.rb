@@ -1,6 +1,6 @@
 require 'rgeo'
 require 'rgeo/geo_json'
-require 'JSON'
+require 'json'
 
 class Segment
 	@points

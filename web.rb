@@ -45,7 +45,7 @@ get '/tracks.json' do
 
 	result = {:tracks => Array.new}
 
-	Dir.foreach(File.expand_path("GPX Files")) do |f|
+	Dir.foreach(File.join(File.dirname(__FILE__), "GPX Files/")) do |f|
 		result[:tracks].push({:filename => f}) unless f[0] == '.'
 	end
 

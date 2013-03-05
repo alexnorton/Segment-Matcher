@@ -1,4 +1,4 @@
-require 'RGeo'
+require 'rgeo'
 require './segment.rb'
 require './journey.rb'
 

@@ -1,5 +1,5 @@
-require 'RGeo'
-require 'RGeo/Geo_JSON'
+require 'rgeo'
+require 'rgeo/geo_json'
 require 'JSON'
 
 class Segment

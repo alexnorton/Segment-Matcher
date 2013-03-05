@@ -1,4 +1,4 @@
-require 'RGeo'
+require 'rgeo'
 require 'rgeo/geo_json'
 
 class Journey

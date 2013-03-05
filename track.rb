@@ -1,5 +1,5 @@
 require 'nokogiri'
-require 'RGeo'
+require 'rgeo'
 
 class Track
 

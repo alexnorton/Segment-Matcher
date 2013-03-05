@@ -43,13 +43,13 @@ end
 get '/tracks.json' do
 	content_type :json
 
-	result = {:tracks => Array.new}
+	tracks = Array.new
 
 	Dir.foreach(File.join(File.dirname(__FILE__), "GPX files/")) do |f|
-		result[:tracks].push({:filename => f}) unless f[0] == '.'
+		tracks.push({:filename => f}) unless f[0] == '.'
 	end
 
-	(result[:tracks].sort_by { |hash| hash[:filename] } ).to_json
+	{:tracks => (tracks.sort_by { |hash| hash[:filename] } )}.to_json
 end 
 
 get '/gpx/*' do

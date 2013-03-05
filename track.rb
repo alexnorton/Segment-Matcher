@@ -25,7 +25,7 @@ class Track
 
 			@points.push(point)
 		end
-	end
+	end 
 
 
 end

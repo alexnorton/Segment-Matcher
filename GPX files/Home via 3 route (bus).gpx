@@ -1,0 +1,495 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="MotionXGPSFull 20.0 Build 4621R">
+<trk>
+<name>Track 007</name>
+<desc>5 Mar 2013 11:36 pm</desc>
+<trkseg>
+<trkpt lat="54.0099203" lon="-2.7881130">
+<ele>64.982</ele>
+<time>2013-03-05T23:38:23.910Z</time>
+</trkpt>
+<trkpt lat="54.0100210" lon="-2.7885446">
+<ele>64.952</ele>
+<time>2013-03-05T23:38:25.911Z</time>
+</trkpt>
+<trkpt lat="54.0100210" lon="-2.7885446">
+<ele>67.702</ele>
+<time>2013-03-05T23:38:25.912Z</time>
+</trkpt>
+<trkpt lat="54.0100210" lon="-2.7885446">
+<ele>74.895</ele>
+<time>2013-03-05T23:38:26.012Z</time>
+</trkpt>
+<trkpt lat="54.0100992" lon="-2.7888352">
+<ele>82.281</ele>
+<time>2013-03-05T23:38:30.914Z</time>
+</trkpt>
+<trkpt lat="54.0101717" lon="-2.7891717">
+<ele>86.667</ele>
+<time>2013-03-05T23:38:33.910Z</time>
+</trkpt>
+<trkpt lat="54.0101717" lon="-2.7891717">
+<ele>89.491</ele>
+<time>2013-03-05T23:38:34.911Z</time>
+</trkpt>
+<trkpt lat="54.0101717" lon="-2.7891717">
+<ele>90.984</ele>
+<time>2013-03-05T23:38:35.011Z</time>
+</trkpt>
+<trkpt lat="54.0104246" lon="-2.7895707">
+<ele>90.430</ele>
+<time>2013-03-05T23:38:38.909Z</time>
+</trkpt>
+<trkpt lat="54.0105867" lon="-2.7895965">
+<ele>88.007</ele>
+<time>2013-03-05T23:38:40.910Z</time>
+</trkpt>
+<trkpt lat="54.0106959" lon="-2.7895928">
+<ele>83.882</ele>
+<time>2013-03-05T23:38:41.911Z</time>
+</trkpt>
+<trkpt lat="54.0106959" lon="-2.7895928">
+<ele>78.604</ele>
+<time>2013-03-05T23:38:41.912Z</time>
+</trkpt>
+<trkpt lat="54.0106959" lon="-2.7895928">
+<ele>73.954</ele>
+<time>2013-03-05T23:38:42.012Z</time>
+</trkpt>
+<trkpt lat="54.0109533" lon="-2.7896290">
+<ele>71.481</ele>
+<time>2013-03-05T23:38:45.925Z</time>
+</trkpt>
+<trkpt lat="54.0110487" lon="-2.7896636">
+<ele>69.458</ele>
+<time>2013-03-05T23:38:47.928Z</time>
+</trkpt>
+<trkpt lat="54.0110487" lon="-2.7896636">
+<ele>65.885</ele>
+<time>2013-03-05T23:38:48.939Z</time>
+</trkpt>
+<trkpt lat="54.0110487" lon="-2.7896636">
+<ele>62.946</ele>
+<time>2013-03-05T23:38:49.039Z</time>
+</trkpt>
+<trkpt lat="54.0112801" lon="-2.7898229">
+<ele>62.975</ele>
+<time>2013-03-05T23:38:55.152Z</time>
+</trkpt>
+<trkpt lat="54.0113604" lon="-2.7899052">
+<ele>61.538</ele>
+<time>2013-03-05T23:38:56.725Z</time>
+</trkpt>
+<trkpt lat="54.0114860" lon="-2.7900415">
+<ele>53.056</ele>
+<time>2013-03-05T23:38:59.237Z</time>
+</trkpt>
+<trkpt lat="54.0115769" lon="-2.7901784">
+<ele>40.059</ele>
+<time>2013-03-05T23:39:01.308Z</time>
+</trkpt>
+<trkpt lat="54.0116233" lon="-2.7903549">
+<ele>28.859</ele>
+<time>2013-03-05T23:39:03.298Z</time>
+</trkpt>
+<trkpt lat="54.0116478" lon="-2.7905605">
+<ele>21.735</ele>
+<time>2013-03-05T23:39:05.513Z</time>
+</trkpt>
+<trkpt lat="54.0116389" lon="-2.7907368">
+<ele>17.996</ele>
+<time>2013-03-05T23:39:07.415Z</time>
+</trkpt>
+<trkpt lat="54.0116146" lon="-2.7909652">
+<ele>15.528</ele>
+<time>2013-03-05T23:39:09.980Z</time>
+</trkpt>
+<trkpt lat="54.0116078" lon="-2.7911359">
+<ele>12.832</ele>
+<time>2013-03-05T23:39:12.003Z</time>
+</trkpt>
+<trkpt lat="54.0116148" lon="-2.7913264">
+<ele>11.465</ele>
+<time>2013-03-05T23:39:14.273Z</time>
+</trkpt>
+<trkpt lat="54.0116345" lon="-2.7916298">
+<ele>12.907</ele>
+<time>2013-03-05T23:39:17.910Z</time>
+</trkpt>
+<trkpt lat="54.0116343" lon="-2.7918264">
+<ele>16.394</ele>
+<time>2013-03-05T23:39:19.956Z</time>
+</trkpt>
+<trkpt lat="54.0116314" lon="-2.7920921">
+<ele>21.020</ele>
+<time>2013-03-05T23:39:22.526Z</time>
+</trkpt>
+<trkpt lat="54.0117049" lon="-2.7923398">
+<ele>26.053</ele>
+<time>2013-03-05T23:39:24.933Z</time>
+</trkpt>
+<trkpt lat="54.0117348" lon="-2.7926099">
+<ele>33.224</ele>
+<time>2013-03-05T23:39:27.214Z</time>
+</trkpt>
+<trkpt lat="54.0117168" lon="-2.7928291">
+<ele>45.651</ele>
+<time>2013-03-05T23:39:28.996Z</time>
+</trkpt>
+<trkpt lat="54.0117207" lon="-2.7929975">
+<ele>61.355</ele>
+<time>2013-03-05T23:39:30.346Z</time>
+</trkpt>
+<trkpt lat="54.0117636" lon="-2.7931574">
+<ele>74.543</ele>
+<time>2013-03-05T23:39:31.765Z</time>
+</trkpt>
+<trkpt lat="54.0118437" lon="-2.7934418">
+<ele>82.397</ele>
+<time>2013-03-05T23:39:34.337Z</time>
+</trkpt>
+<trkpt lat="54.0118952" lon="-2.7937190">
+<ele>85.632</ele>
+<time>2013-03-05T23:39:36.875Z</time>
+</trkpt>
+<trkpt lat="54.0119589" lon="-2.7940112">
+<ele>86.384</ele>
+<time>2013-03-05T23:39:39.525Z</time>
+</trkpt>
+<trkpt lat="54.0120041" lon="-2.7942287">
+<ele>86.263</ele>
+<time>2013-03-05T23:39:41.275Z</time>
+</trkpt>
+<trkpt lat="54.0120488" lon="-2.7944569">
+<ele>85.828</ele>
+<time>2013-03-05T23:39:42.832Z</time>
+</trkpt>
+<trkpt lat="54.0121136" lon="-2.7948346">
+<ele>85.092</ele>
+<time>2013-03-05T23:39:45.509Z</time>
+</trkpt>
+<trkpt lat="54.0121554" lon="-2.7951041">
+<ele>83.920</ele>
+<time>2013-03-05T23:39:47.497Z</time>
+</trkpt>
+<trkpt lat="54.0122135" lon="-2.7953605">
+<ele>82.143</ele>
+<time>2013-03-05T23:39:49.504Z</time>
+</trkpt>
+<trkpt lat="54.0122895" lon="-2.7955869">
+<ele>79.954</ele>
+<time>2013-03-05T23:39:51.377Z</time>
+</trkpt>
+<trkpt lat="54.0123981" lon="-2.7959203">
+<ele>77.768</ele>
+<time>2013-03-05T23:39:54.034Z</time>
+</trkpt>
+<trkpt lat="54.0124622" lon="-2.7961411">
+<ele>75.524</ele>
+<time>2013-03-05T23:39:55.638Z</time>
+</trkpt>
+<trkpt lat="54.0125370" lon="-2.7964952">
+<ele>73.123</ele>
+<time>2013-03-05T23:39:58.034Z</time>
+</trkpt>
+<trkpt lat="54.0126366" lon="-2.7968355">
+<ele>70.986</ele>
+<time>2013-03-05T23:40:00.527Z</time>
+</trkpt>
+<trkpt lat="54.0127357" lon="-2.7971810">
+<ele>69.743</ele>
+<time>2013-03-05T23:40:03.045Z</time>
+</trkpt>
+<trkpt lat="54.0128514" lon="-2.7974556">
+<ele>70.128</ele>
+<time>2013-03-05T23:40:05.227Z</time>
+</trkpt>
+<trkpt lat="54.0129371" lon="-2.7976107">
+<ele>72.638</ele>
+<time>2013-03-05T23:40:06.628Z</time>
+</trkpt>
+<trkpt lat="54.0130912" lon="-2.7978424">
+<ele>76.741</ele>
+<time>2013-03-05T23:40:08.899Z</time>
+</trkpt>
+<trkpt lat="54.0132569" lon="-2.7980346">
+<ele>80.774</ele>
+<time>2013-03-05T23:40:11.064Z</time>
+</trkpt>
+<trkpt lat="54.0134502" lon="-2.7981738">
+<ele>82.809</ele>
+<time>2013-03-05T23:40:13.211Z</time>
+</trkpt>
+<trkpt lat="54.0135842" lon="-2.7982350">
+<ele>82.449</ele>
+<time>2013-03-05T23:40:14.657Z</time>
+</trkpt>
+<trkpt lat="54.0137992" lon="-2.7982800">
+<ele>81.398</ele>
+<time>2013-03-05T23:40:16.957Z</time>
+</trkpt>
+<trkpt lat="54.0250656" lon="-2.7942172">
+<ele>58.303</ele>
+<time>2013-03-05T23:41:53.001Z</time>
+</trkpt>
+<trkpt lat="54.0288836" lon="-2.7953433">
+<ele>48.355</ele>
+<time>2013-03-05T23:42:23.368Z</time>
+</trkpt>
+<trkpt lat="54.0290512" lon="-2.7953312">
+<ele>48.333</ele>
+<time>2013-03-05T23:42:24.617Z</time>
+</trkpt>
+<trkpt lat="54.0292384" lon="-2.7953198">
+<ele>49.027</ele>
+<time>2013-03-05T23:42:26.021Z</time>
+</trkpt>
+<trkpt lat="54.0295458" lon="-2.7953129">
+<ele>52.011</ele>
+<time>2013-03-05T23:42:28.309Z</time>
+</trkpt>
+<trkpt lat="54.0297746" lon="-2.7952606">
+<ele>56.912</ele>
+<time>2013-03-05T23:42:30.019Z</time>
+</trkpt>
+<trkpt lat="54.0299860" lon="-2.7951979">
+<ele>60.930</ele>
+<time>2013-03-05T23:42:31.573Z</time>
+</trkpt>
+<trkpt lat="54.0302999" lon="-2.7951283">
+<ele>62.878</ele>
+<time>2013-03-05T23:42:33.874Z</time>
+</trkpt>
+<trkpt lat="54.0306168" lon="-2.7950866">
+<ele>63.764</ele>
+<time>2013-03-05T23:42:36.191Z</time>
+</trkpt>
+<trkpt lat="54.0308426" lon="-2.7950503">
+<ele>63.914</ele>
+<time>2013-03-05T23:42:37.827Z</time>
+</trkpt>
+<trkpt lat="54.0311764" lon="-2.7949774">
+<ele>63.280</ele>
+<time>2013-03-05T23:42:40.230Z</time>
+</trkpt>
+<trkpt lat="54.0313928" lon="-2.7949106">
+<ele>62.820</ele>
+<time>2013-03-05T23:42:41.774Z</time>
+</trkpt>
+<trkpt lat="54.0315770" lon="-2.7948649">
+<ele>63.259</ele>
+<time>2013-03-05T23:42:43.074Z</time>
+</trkpt>
+<trkpt lat="54.0318644" lon="-2.7948304">
+<ele>64.022</ele>
+<time>2013-03-05T23:42:45.058Z</time>
+</trkpt>
+<trkpt lat="54.0320623" lon="-2.7948337">
+<ele>64.425</ele>
+<time>2013-03-05T23:42:46.406Z</time>
+</trkpt>
+<trkpt lat="54.0323489" lon="-2.7948679">
+<ele>64.486</ele>
+<time>2013-03-05T23:42:48.373Z</time>
+</trkpt>
+<trkpt lat="54.0326610" lon="-2.7949150">
+<ele>63.794</ele>
+<time>2013-03-05T23:42:50.588Z</time>
+</trkpt>
+<trkpt lat="54.0329829" lon="-2.7949831">
+<ele>61.990</ele>
+<time>2013-03-05T23:42:52.965Z</time>
+</trkpt>
+<trkpt lat="54.0333169" lon="-2.7950453">
+<ele>59.694</ele>
+<time>2013-03-05T23:42:55.485Z</time>
+</trkpt>
+<trkpt lat="54.0337018" lon="-2.7951039">
+<ele>56.998</ele>
+<time>2013-03-05T23:42:58.245Z</time>
+</trkpt>
+<trkpt lat="54.0341755" lon="-2.7951405">
+<ele>53.764</ele>
+<time>2013-03-05T23:43:01.582Z</time>
+</trkpt>
+<trkpt lat="54.0344499" lon="-2.7951156">
+<ele>49.932</ele>
+<time>2013-03-05T23:43:03.405Z</time>
+</trkpt>
+<trkpt lat="54.0348402" lon="-2.7950626">
+<ele>45.455</ele>
+<time>2013-03-05T23:43:05.916Z</time>
+</trkpt>
+<trkpt lat="54.0352155" lon="-2.7950200">
+<ele>41.668</ele>
+<time>2013-03-05T23:43:08.305Z</time>
+</trkpt>
+<trkpt lat="54.0354545" lon="-2.7950084">
+<ele>39.449</ele>
+<time>2013-03-05T23:43:09.847Z</time>
+</trkpt>
+<trkpt lat="54.0358140" lon="-2.7949684">
+<ele>37.816</ele>
+<time>2013-03-05T23:43:12.194Z</time>
+</trkpt>
+<trkpt lat="54.0360300" lon="-2.7949815">
+<ele>36.259</ele>
+<time>2013-03-05T23:43:13.592Z</time>
+</trkpt>
+<trkpt lat="54.0362498" lon="-2.7950133">
+<ele>34.619</ele>
+<time>2013-03-05T23:43:15.005Z</time>
+</trkpt>
+<trkpt lat="54.0365778" lon="-2.7950810">
+<ele>32.918</ele>
+<time>2013-03-05T23:43:17.069Z</time>
+</trkpt>
+<trkpt lat="54.0368750" lon="-2.7951572">
+<ele>31.817</ele>
+<time>2013-03-05T23:43:18.898Z</time>
+</trkpt>
+<trkpt lat="54.0372240" lon="-2.7952724">
+<ele>31.598</ele>
+<time>2013-03-05T23:43:21.049Z</time>
+</trkpt>
+<trkpt lat="54.0374561" lon="-2.7953597">
+<ele>31.098</ele>
+<time>2013-03-05T23:43:22.468Z</time>
+</trkpt>
+<trkpt lat="54.0378044" lon="-2.7955242">
+<ele>29.459</ele>
+<time>2013-03-05T23:43:24.595Z</time>
+</trkpt>
+<trkpt lat="54.0381568" lon="-2.7956624">
+<ele>27.735</ele>
+<time>2013-03-05T23:43:26.728Z</time>
+</trkpt>
+<trkpt lat="54.0383845" lon="-2.7957460">
+<ele>27.058</ele>
+<time>2013-03-05T23:43:28.100Z</time>
+</trkpt>
+<trkpt lat="54.0386276" lon="-2.7958016">
+<ele>26.991</ele>
+<time>2013-03-05T23:43:29.525Z</time>
+</trkpt>
+<trkpt lat="54.0390207" lon="-2.7958601">
+<ele>26.687</ele>
+<time>2013-03-05T23:43:31.810Z</time>
+</trkpt>
+<trkpt lat="54.0392788" lon="-2.7959113">
+<ele>25.940</ele>
+<time>2013-03-05T23:43:33.333Z</time>
+</trkpt>
+<trkpt lat="54.0396636" lon="-2.7959916">
+<ele>25.239</ele>
+<time>2013-03-05T23:43:35.718Z</time>
+</trkpt>
+<trkpt lat="54.0400339" lon="-2.7960725">
+<ele>25.322</ele>
+<time>2013-03-05T23:43:38.183Z</time>
+</trkpt>
+<trkpt lat="54.0404353" lon="-2.7961407">
+<ele>26.307</ele>
+<time>2013-03-05T23:43:41.202Z</time>
+</trkpt>
+<trkpt lat="54.0406784" lon="-2.7961767">
+<ele>27.273</ele>
+<time>2013-03-05T23:43:43.366Z</time>
+</trkpt>
+<trkpt lat="54.0410242" lon="-2.7962144">
+<ele>27.230</ele>
+<time>2013-03-05T23:43:46.857Z</time>
+</trkpt>
+<trkpt lat="54.0412354" lon="-2.7962310">
+<ele>25.898</ele>
+<time>2013-03-05T23:43:49.521Z</time>
+</trkpt>
+<trkpt lat="54.0414817" lon="-2.7962861">
+<ele>23.863</ele>
+<time>2013-03-05T23:43:52.958Z</time>
+</trkpt>
+<trkpt lat="54.0416036" lon="-2.7963281">
+<ele>23.281</ele>
+<time>2013-03-05T23:43:55.146Z</time>
+</trkpt>
+<trkpt lat="54.0418155" lon="-2.7963497">
+<ele>26.265</ele>
+<time>2013-03-05T23:43:58.264Z</time>
+</trkpt>
+<trkpt lat="54.0418869" lon="-2.7965125">
+<ele>32.557</ele>
+<time>2013-03-05T23:43:59.766Z</time>
+</trkpt>
+<trkpt lat="54.0419770" lon="-2.7966776">
+<ele>39.356</ele>
+<time>2013-03-05T23:44:01.285Z</time>
+</trkpt>
+<trkpt lat="54.0421063" lon="-2.7967281">
+<ele>43.126</ele>
+<time>2013-03-05T23:44:02.792Z</time>
+</trkpt>
+<trkpt lat="54.0422033" lon="-2.7966992">
+<ele>42.756</ele>
+<time>2013-03-05T23:44:03.854Z</time>
+</trkpt>
+<trkpt lat="54.0423628" lon="-2.7966192">
+<ele>40.333</ele>
+<time>2013-03-05T23:44:05.596Z</time>
+</trkpt>
+<trkpt lat="54.0424865" lon="-2.7965823">
+<ele>38.161</ele>
+<time>2013-03-05T23:44:06.863Z</time>
+</trkpt>
+<trkpt lat="54.0426901" lon="-2.7966373">
+<ele>37.068</ele>
+<time>2013-03-05T23:44:08.872Z</time>
+</trkpt>
+<trkpt lat="54.0428406" lon="-2.7967187">
+<ele>37.326</ele>
+<time>2013-03-05T23:44:10.312Z</time>
+</trkpt>
+<trkpt lat="54.0430139" lon="-2.7968556">
+<ele>38.680</ele>
+<time>2013-03-05T23:44:11.929Z</time>
+</trkpt>
+<trkpt lat="54.0439493" lon="-2.7991413">
+<ele>26.031</ele>
+<time>2013-03-05T23:44:47.927Z</time>
+</trkpt>
+<trkpt lat="54.0439493" lon="-2.7991413">
+<ele>26.019</ele>
+<time>2013-03-05T23:44:51.927Z</time>
+</trkpt>
+<trkpt lat="54.0439493" lon="-2.7991413">
+<ele>26.012</ele>
+<time>2013-03-05T23:44:52.027Z</time>
+</trkpt>
+<trkpt lat="54.0440889" lon="-2.7993931">
+<ele>26.006</ele>
+<time>2013-03-05T23:44:57.932Z</time>
+</trkpt>
+<trkpt lat="54.0442804" lon="-2.7995642">
+<ele>26.649</ele>
+<time>2013-03-05T23:45:00.926Z</time>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+<fpdata xmlns="http://www.motionx.com/GPX-Extensions/1/1" sfv="10" origin="MotionXGPSFull 20.0 Build 4621R">
+<bin enc="base64">
+RAIAAAACAAAAxJKmYaBN1EEBAAAAlSlc7aBN1EEAAMCn0iWBQHsAAAANvwYARphg1tM+
+UEDcNiVfh7s9QAAAAAAKAAAAVHJhY2sgMDA3ABQAAAA1IE1hciAyMDEzIDExOjM2IHBt
+AAAAAAAkKlztoE3UQcCyXO2gTdRBLR4GAHy/GnPRLYlALAAAAAAAAABq8ZgyDk4GwHPh
+6xFFAUtARphg1tM+UEAAAAAAAAA+QAAAAAAAgExAAAAAAAA0lkAAAAAAAAAAAAAAAACa
+mZmZmVlHQCDGgDbYBzpAAQAAACgj5nDu7VU/AQAAAAEAAAAGxoIdfye+P+nYUhfwnrO/
+AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+AAAAAAAAAAAAHAAAAHjWOuCgTdRBAAAAAAAAAAAAAAAAAAAAAP8lRLwBAAAAAAAAAAAA
+AABMTgAAAQAAAAEJAAAAhoE2UauDNlEEOUROe6BN1EE5RE57oE3UQQAAgJ6xp1lAAAAA
+AAOuLg6doE3UQa4uDp2gTdRBAABAA86zbUAAAAAABHrIDqagTdRBesgOpqBN1EEAACBe
+EBpxQAAAAAADRSoOp6BN1EFFKg6noE3UQQAAkOflWXFAAAAAAASH4ICvoE3UQYfggK+g
+TdRBAACwc5N2c0AAAAAAA4xkjtOgTdRBjGSO06BN1EEAABB09Hl8QAAAAAAEsDgB3KBN
+1EGwOAHcoE3UQQAAIH+pln5AAAAAAAMKLE7goE3UQQosTuCgTdRBAADQWeapf0AAAAAA
+Af+SpmGgTdRBPSjV6qBN1EEAAMCn0iWBQAAAAAAAAAAA
+</bin>
+</fpdata>
+</extensions>
+</gpx>

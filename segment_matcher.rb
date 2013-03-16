@@ -7,9 +7,9 @@ class SegmentMatcher
 	@factory
 	@distance
 
-	def initialize()
+	def initialize(distance)
 		@factory = ::RGeo::Geographic.spherical_factory
-		@distance = 40
+		@distance = distance.to_i
 	end
 
 	def match(track1, track2)

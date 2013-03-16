@@ -17,7 +17,7 @@ $(document).ready(function() {
 			}}
 		});
 
-    $(".track-lists").change(function() {
+    $(".track-lists, #distance").change(function() {
     	track1 = $("#track-list1 option:selected").text() + ".gpx";
     	track2 = $("#track-list2 option:selected").text() + ".gpx";
 
@@ -66,7 +66,7 @@ function matchTracks(track1, track2) {
 
 	$.ajax({
 		type: "GET",
-		url: "match.json?track1=" + track1 + "&track2=" + track2,
+		url: "match.json?track1=" + track1 + "&track2=" + track2 + "&distance=" + $("#distance").val(),
 		dataType: "json",
 		success: function(json) {
 

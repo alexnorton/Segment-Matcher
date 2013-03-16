@@ -13,7 +13,7 @@ get '/match.json' do
 	track1 = Track.new("GPX files/#{params[:track1]}")
 	track2 = Track.new("GPX files/#{params[:track2]}")
 
-	segment_matcher = SegmentMatcher.new()
+	segment_matcher = SegmentMatcher.new(params[:distance])
 
 	matched_results = segment_matcher.match(track1, track2)
 

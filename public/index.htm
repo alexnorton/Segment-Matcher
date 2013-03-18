@@ -9,56 +9,8 @@
 
     <!-- Le styles -->
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
-    <style type="text/css">
-      body {
-        padding-top: 20px;
-        padding-bottom: 40px;
-      }
-
-      /* Custom container */
-      .container-narrow {
-        margin: 0 auto;
-        max-width: 700px;
-      }
-      .container-narrow > hr {
-        margin: 30px 0;
-      }
-
-      /* Main marketing message and sign up button */
-      .jumbotron {
-        margin: 60px 0;
-        text-align: center;
-      }
-      .jumbotron h1 {
-        font-size: 72px;
-        line-height: 1;
-      }
-      .jumbotron .btn {
-        font-size: 21px;
-        padding: 14px 24px;
-      }
-
-      /* Supporting marketing content */
-      .marketing {
-        margin: 60px 0;
-      }
-      .marketing p + h4 {
-        margin-top: 28px;
-      }
-
-      #zoom-out-button {
-        float: right;
-        margin-top: -45px;
-        display: none;
-      }
-
-      #segments-table tbody tr:hover td {
-        background-color: #d9edf7;
-      }
-
-
-
-    </style>
+    <link rel="stylesheet" type="text/css" href="slider/slider.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -76,13 +28,6 @@
 
       <div class="masthead">
         <h1 style="display: inline-block;">Segment Matcher</h1>
-        <div style="display: inline; float: right;"><select id="track-list1" class="track-lists" style="margin: 15px 0;">
-		</select>
-		vs
-		<select id="track-list2" class="track-lists" style="margin: 15px 0;">
-      <input type="text" id="distance" style="margin: 15px 5px; width: 30px;" value="40">
-		</select>
-	</div>
       </div>
 
       <div class="row-fluid" id="contentrow">
@@ -93,6 +38,28 @@
 			</div>
 		</div>
 		<div class="span4">
+      <h3>Options</h3>
+      <form class="form-horizontal">
+        <div class="control-group">
+          <label class="control-label" for="track-list1">Journey 1</label>
+          <div class="controls">
+            <select id="track-list1" class="track-lists"></select>
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="track-list2">Journey 2</label>
+          <div class="controls">
+            <select id="track-list2" class="track-lists"></select>
+          </div>
+        </div>
+        <div class="control-group">
+          <label class="control-label" for="distance">Distance</label>
+          <div class="controls">
+            <input type="text" id="distance-slider" value="40">
+            <input type="text" id="distance-text" value="40">
+          </div>
+        </div>
+      </form>
 			<h3>Journeys</h3>
 			<table class="table table-striped" id="journey-table">
 				<thead>
@@ -151,6 +118,7 @@
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.js"></script>
+    <script src="slider/bootstrap-slider.js"></script>
 	<script type="text/javascript"
       src="https://maps.googleapis.com/maps/api/js?libraries=geometry&key=AIzaSyAUdbP11sdzUFIcsln8oGorWDrurDgmIYA&sensor=false"></script>
 	<script src="script.js"></script>

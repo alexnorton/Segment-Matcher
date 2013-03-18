@@ -1,18 +1,41 @@
 body {
-	font-family: "Helvetica Neue";
-	font-weight: lighter;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
-#map_canvas {
-	width: 800px;
-	height: 600px;
-	line height: 600px;
+/* Custom container */
+.container-narrow {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.container-narrow > hr {
+    margin: 30px 0;
+}
+
+.form-horizontal .control-label {
+    width: 70px;
+}
+
+.form-horizontal .controls {
+    margin-left: 90px;
+}
+
+#distance-slider {
+    width: 155px;
+}
+
+#distance-text {
+    margin-left: 10px;
+    width: 25px;
 }
 
 #zoom-out-button {
-	float: right;
+    float: right;
+    margin-top: -45px;
+    display: none;
 }
 
-#segments-table tbody tr:hover {
-	background-color: #0f0;
+#segments-table tbody tr:hover td {
+    background-color: #d9edf7;
 }

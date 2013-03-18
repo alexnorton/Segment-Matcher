@@ -10,6 +10,18 @@ var segmentsBounds;
 
 $(document).ready(function() {
 
+	$('#distance-slider').slider({
+    	"min": 0,
+    	"max": 200,
+    	"step": 5,
+    	"value": 40,
+    	"tooltip": "hide"
+    }).on('slideStop', function() {
+    	matchTracks(track1, track2);
+    }).on('slide', function() {
+    	$("#distance-text").val($("#distance-slider").val());
+    });
+
 	getTracks({success: function(tracks) {
 			for(i in tracks) {
 				$("#track-list1").append("<option" + (track1 == tracks[i] ? " selected" : "") + ">" + tracks[i].split(".gpx")[0] + "</option>");
@@ -17,10 +29,15 @@ $(document).ready(function() {
 			}}
 		});
 
-    $(".track-lists, #distance").change(function() {
+    $(".track-lists").change(function() {
     	track1 = $("#track-list1 option:selected").text() + ".gpx";
     	track2 = $("#track-list2 option:selected").text() + ".gpx";
 
+    	matchTracks(track1, track2);
+    });
+
+    $("#distance-text").change(function() {
+    	$("#distance-slider").slider("setValue", $(this).val());
     	matchTracks(track1, track2);
     });
 
@@ -32,6 +49,10 @@ $(document).ready(function() {
     	map.fitBounds(bounds);
     	$(this).hide();
     });
+
+    
+
+
 
 });
 
@@ -66,7 +87,7 @@ function matchTracks(track1, track2) {
 
 	$.ajax({
 		type: "GET",
-		url: "match.json?track1=" + track1 + "&track2=" + track2 + "&distance=" + $("#distance").val(),
+		url: "match.json?track1=" + track1 + "&track2=" + track2 + "&distance=" + $("#distance-text").val(),
 		dataType: "json",
 		success: function(json) {
 

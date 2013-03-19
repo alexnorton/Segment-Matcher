@@ -156,6 +156,9 @@ function matchTracks(track1, track2) {
 				var journey1time = (new Date(json.journeys[0].timings[i].end_time) - new Date(json.journeys[0].timings[i].start_time)) / 1000;
 				var journey2time = (new Date(json.journeys[1].timings[i].end_time) - new Date(json.journeys[1].timings[i].start_time)) / 1000;
 
+				journey1time = journey1time < 0 ? -journey1time : journey1time;
+				journey2time = journey2time < 0 ? -journey2time : journey2time;
+
 				$("#segments-table tbody").append(
 					"<tr>" +
 						"<td>" + (Number(i) + 1) + "</td>" +
